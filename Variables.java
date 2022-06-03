@@ -1,4 +1,4 @@
-//How to declare a variable
+//How to declare a variable to store a number or integer
 public Class Variables {
   public static void main(String[] args) {
     int x = 5;
