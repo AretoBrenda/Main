@@ -4,6 +4,8 @@ public class Othertypesdeclared {
     final int = 5;
     myNum = 20 // this will generate an error response
       System.out.println(myNum);
+  }
+}
     
     
     //A demonstration of how to declare variables of other types
