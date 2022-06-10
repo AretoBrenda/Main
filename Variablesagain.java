@@ -5,3 +5,5 @@ public class Variablesagain {
     int myNum = 10;
     myNum = 15 // myNum is now 15
       System.out.println(myNum);
+  }
+}
