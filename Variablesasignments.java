@@ -4,3 +4,5 @@ Public class Main {
     int x, y, z;
     x = y = z = 50;
     System.out.println(x + y + z);
+  }
+}
