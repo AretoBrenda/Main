@@ -3,3 +3,5 @@ public class Moreonvariables {
   public static void main(String[] args) {
     String name = "Mary";
     System.out.println(name);
+  }
+}
