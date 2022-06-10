@@ -1,10 +1,10 @@
 public class Exercise1 {
 	
 public static void main(String[] args) {
-	int myNum = 5;               // Integer (whole number)
-	float myFloatNum = 5.99f;    // Floating point number
-	char myLetter = 'D';         // Character
-	boolean myBool = true;       // Boolean
+	int myNum = 18;               // Integer (whole number)
+	float myFloatNum = 5.37f;    // Floating point number
+	char myLetter = 'B';         // Character
+	boolean myBool = false;       // Boolean
 	String myText = "Hello";     // String
 	
 	System.out.println(myNum);
