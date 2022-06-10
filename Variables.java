@@ -5,4 +5,6 @@ public Class Variables {
     int y = 10;
     int z = x + y;
     System.out.println(z);
+  }
+}
       
