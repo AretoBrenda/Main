@@ -4,3 +4,5 @@ public class Numericvariables {
     int x = 20;
     int y = 13;
     System.out.println(x + y);
+  }
+}
