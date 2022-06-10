@@ -4,3 +4,5 @@ public class Displayvariables {
   public static void main(String[] args) {
     String name = "Brenda";
     System.out.println("Hello " + name);
+  }
+}
