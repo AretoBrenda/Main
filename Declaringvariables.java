@@ -6,3 +6,5 @@ public class Declaringvariables {
     int z = 13;
     System.out.println(x + y + z);
     // this produces the total value of the numbers stored in the respectuve variables
+  }
+}
